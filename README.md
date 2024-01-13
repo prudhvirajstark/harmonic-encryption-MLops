@@ -1,4 +1,4 @@
-# harmonic-encryption-MLops
+# homomorphic-encryption-MLops
 
 This repository demonstrates a simple example of securing a machine learning model using homomorphic encryption.
 
